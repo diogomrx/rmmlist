@@ -1,0 +1,290 @@
+Nome,ProcessName
+TightVNC,"tvnserver.exe, tvnviewer.exe"
+Pilixo,
+SimpleHelp,
+Domotz,
+Chicken (of the VNC),
+Fortra,
+Manage Engine (Desktop Central),
+Supremo,Supremo.exe
+EMCO Remote Console,
+Weezo,Weezo.exe
+Splashtop (Beta),"SplashtopStreamer.exe, SRService.exe"
+Microsoft Quick Assist,QuickAssist.exe
+RemoteView,
+SuperOps,
+AweRay,AweSun.exe
+AnyDesk,AnyDesk.exe
+RAdmin,"r_server.exe, radmin.exe"
+RuDesktop,
+Ultra VNC,winvnc.exe
+CrossLoop,CrossLoop.exe
+Senso.cloud,
+MioNet (Also known as WD Anywhere Access),MioNet.exe
+Laplink Gold,Laplink.exe
+Kabuto,
+Yandex.Disk,YandexDisk.exe
+HopToDesk,
+NetSupport Manager,client32.exe
+Instant Housecall,
+HelpBeam,
+ITSupport247 (ConnectWise),
+GoToAssist (GoTo Resolve),gotoopener.exe
+Pocket Cloud (Wyse),
+GatherPlace-desktop sharing,
+GetScreen,getscreen.exe
+ManageEngine RMM Central,
+Basecamp,
+Netreo,
+Addigy,
+Devolutions Remote Desktop Manager,RemoteDesktopManager.exe
+PuTTY Tray,"putty.exe, puttytray.exe"
+KickIdler,kickidler.exe
+LabTech RMM (Now ConnectWise Automate),"LTService.exe, LTSvcMon.exe"
+MSP360,RemoteAssistant.exe
+Itarian,
+Goverlan,
+RPort,rport.exe
+NinjaRMM,NinjaRMMAgent.exe
+Microsoft RDP,mstsc.exe
+LogMeIn rescue,"LMIRun.exe, LMIGuardianSvc.exe"
+TeamViewer,"TeamViewer.exe, TeamViewer_Service.exe, TeamViewer_Desktop.exe"
+XRDP,xrdp
+FleetDeck.io,
+Remote Desktop Manager (Devolutions),RemoteDesktopManager.exe
+Xshell,Xshell.exe
+mRemoteNG,mRemoteNG.exe
+MyGreenPC,MyGreenPC.exe
+MultCloud,
+TurboMeeting,TurboMeeting.exe
+SmartFTP,SmartFTP.exe
+SkyFex,SkyFex.exe
+eHorus,ehorus_agent.exe
+Netop Remote Control (aka Impero Connect),
+ScreenMeet,
+Naverisk,
+ConnectWise,
+FreeNX,
+KiTTY,kitty.exe
+DragonDisk,dragondisk.exe
+Pocket Controller,PocketController.exe
+Remmina,remmina
+Neturo,
+Electric AI (Kaseya),
+GoToAssist Agent Desktop Console,
+Syspectr,
+Parallels Access,ParallelsAccess.exe
+BeyondTrust (Bomgar),bomgar-scc.exe
+Kaseya (VSA),AgentMon.exe
+ServerEye,
+pcAnywhere,"awhost32.exe, winaw32.exe"
+NoMachine,"nxplayer.exe, nxservice.exe"
+DeskDay,
+S3 Browser,s3browser.exe
+Comodo RMM,
+Tactical RMM,meshagent.exe
+Bitvise SSH Server,BvSshServer.exe
+DW Service,dwagent.exe
+TigerVNC,"vncviewer.exe, Xvnc.exe"
+SmartCode Web VNC,
+RDPView,
+Visual Studio Dev Tunnel,devtunnel.exe
+Impero Connect,
+KHelpDesk,
+IntelliAdmin Remote Control,
+Any Support,
+MEGAsync,MEGAsync.exe
+Instant Housecall,
+Rocket Remote Desktop,
+Level,
+Chrome SSH Extension,
+Guacamole,guacd
+Iperius Remote,"IperiusRemote.exe, IperiusRemoteService.exe"
+Remcos,remcos.exe
+ISL Online,"isl_light.exe, isl_alwayson.exe"
+N-Able Advanced Monitoring Agent,
+NordLocker,NordLocker.exe
+Ammyy Admin,"AA_v3.exe, ammyy_admin.exe"
+Sorillus,
+Pandora RC (eHorus),
+JollysFastVNC,
+I'm InTouch,
+Parsec,"parsec.exe, parsecd.exe"
+MyIVO,
+UltraViewer,UltraViewer.exe
+Auvik,
+Terminals,Terminals.exe
+RemotePC,"RemotePCService.exe, RemotePCHost.exe"
+SimpleHelp,
+ScreenConnect,"ScreenConnect.Service.exe, ScreenConnect.ClientService.exe, ScreenConnect.WindowsClient.exe"
+RealVNC,"vncserver.exe, vncserverui.exe, vncviewer.exe"
+MeshCentral,meshagent.exe
+Remote Desktop Plus,RemoteDesktopPlus.exe
+VNC,"vncserver.exe, vncviewer.exe"
+CloudFlare Tunnel,cloudflared.exe
+ManageEngine,
+Free Ping Tool,PingTool.exe
+Remote Manipulator System,"rutserv.exe, rutview.exe"
+Syncthing,syncthing.exe
+Laplink Everywhere,
+Royal Server,RoyalServer.exe
+Quick Assist,QuickAssist.exe
+ITSupport247 (ConnectWise),
+247ithelp.com (ConnectWise),
+ZeroTier,zerotier-one_x64.exe
+RemoteCall,rcviewer.exe
+Royal TS,RoyalTS.exe
+Netviewer (GoToMeet),Netviewer.exe
+Action1,
+HelpU,
+Koofr,koofr.exe
+AnyViewer,AnyViewer.exe
+Netop Remote Control (Impero Connect),
+Adobe Connect,
+QQ IM-remote assistance,QQ.exe
+Sophos-Remote Management System,"RouterNT.exe, Agent.exe"
+Netviewer,
+CruzControl,
+Free Tools Launcher,
+Centurion,
+Tailscale,"tailscale.exe, tailscaled.exe"
+Royal Apps,
+Solar-PuTTY,SolarPuTTY.exe
+ExtraPuTTY,
+Alpemix,Alpemix.exe
+PSEXEC (Clone),PsExec.exe
+GotoHTTP,GotoHTTP.exe
+Xpra,xpra.exe
+Ericom Connect,
+DeskShare,
+Echoware,
+Bitvise SSH Client,BvSsh.exe
+Encapto,
+Synergy,synergy.exe
+Remobo,remobo.exe
+SecureCRT,SecureCRT.exe
+AliWangWang-remote-control,
+NTR Remote,ntrsupport.exe
+PDQ Connect,PDQConnectAgent.exe
+ngrok,ngrok.exe
+LabTeach (Connectwise Automate),
+Quest KACE Agent (formerly Dell KACE),AMPAgent.exe
+BeyondTrust,bomgar-scc.exe
+Syncro,
+WinSCP,WinSCP.exe
+Ivanti Remote Control,
+SpyAnywhere,spyanywhere.exe
+DesktopNow,DesktopNow.exe
+Dev Tunnels (aka Visual Studio Dev Tunnel),devtunnel.exe
+rdp2tcp,rdp2tcp.exe
+Netop,
+Xeox,
+Ericom AccessNow,
+Pocket Controller (Soti Xsight),PocketController.exe
+ISL Light,isl_light.exe
+Total Software Deployment,TSD.exe
+Barracuda,
+rdpwrap,rdpwrap.exe
+LogMeIn,LogMeIn.exe
+Zoho Assist,"ZohoAssist.exe, ZohoTray.exe, Join.exe"
+UltraVNC,
+Onionshare,onionshare.exe
+ISL Online,"isl_light.exe, isl_alwayson.exe"
+Connectwise Automate (LabTech),"LTService.exe, LTSvcMon.exe"
+BeAnyWhere,beanywhere.exe
+Splashtop,"SplashtopStreamer.exe, SRService.exe"
+mstsc,mstsc.exe
+SysAid,SysAidAgent.exe
+Remote.it,remoteit.exe
+Aspia,"aspia_host.exe, aspia_console.exe"
+AeroAdmin,AeroAdmin.exe
+ShowMyPC,ShowMyPC.exe
+LiteManager,"RomServer.exe, RomViewer.exe"
+PuTTY,putty.exe
+Level.io,
+Apple Remote Desktop,ARDAgent
+ESET Remote Administrator,eraagent.exe
+Jump Desktop,jumpdesktop.exe
+BeamYourScreen,beamyourscreen.exe
+SmarTTY,SmarTTY.exe
+MioNet (WD Anywhere Access),
+TeleDesktop,
+Splashtop Remote,
+RustDesk,rustdesk.exe
+DeskNets,
+NinjaOne (formerly NinjaRMM),NinjaRMMAgent.exe
+RES Automation Manager,
+BeInSync,
+Tanium Deploy,TaniumClient.exe
+Bluetrait,
+CentraStage (Now Datto),CagService.exe
+N-Able Advanced Monitoring Agent,
+Pcnow,pcnow.exe
+SunLogin,SunloginClient.exe
+DameWare,"DWRCS.exe, DWRCC.exe"
+LANDesk,
+OptiTune,
+GoToAssist,
+NoteOn-desktop sharing,
+MobaXterm,MobaXterm.exe
+ezHelp,
+ConnectWise Control,"ScreenConnect.Service.exe, ScreenConnect.ClientService.exe, ScreenConnect.WindowsClient.exe"
+RemoteUtilities,"rutserv.exe, rutview.exe"
+Jump Cloud,jumpcloud-agent.exe
+X2Go,x2goclient.exe
+NetLock RMM,
+Pulseway,"Pulseway.exe, PulsewaySvc.exe"
+Panorama9,p9agent.exe
+Chrome Remote Desktop,remoting_host.exe
+WebRDP,
+PSEXEC,PsExec.exe
+Insync,insync.exe
+GoToMyPC,g2ax_service.exe
+SuperPuTTY,SuperPuTTY.exe
+ToDesk,ToDesk.exe
+Remote Utilities,
+FreeRDP,wfreerdp.exe
+Pcvisit,pcvisit.exe
+Acronis Cyber Protect (Remotix),
+RemotePass,
+FastViewer,FastViewer.exe
+Microsoft TSC,
+Lite Manager,
+Mocha VNC Lite,
+WebEx (Remote Access),
+Anyplace Control,AnyplaceControl.exe
+Site24x7,Site24x7Agent.exe
+Seetrol,
+Distant Desktop,DistantDesktop.exe
+Duplicati,"Duplicati.GUI.TrayIcon.exe, Duplicati.Server.exe"
+Mikogo,mikogo.exe
+N-ABLE Remote Access Software,
+VNC Connect,"vncserver.exe, vncviewer.exe"
+Atera,AteraAgent.exe
+CrossTec Remote Control,
+FixMe.it,
+Level.io,
+Access Remote PC,
+GoTo Opener,
+NetSupport Manager,client32.exe
+ZOC,zoc.exe
+RunSmart,
+Zoho Assist,"ZohoAssist.exe, ZohoTray.exe, Join.exe"
+RustDesk,rustdesk.exe
+GoToMyPC,g2ax_service.exe
+Chrome Remote Desktop,remoting_host.exe
+NoMachine,"nxplayer.exe, nxservice.exe"
+RemotePC,"RemotePCService.exe, RemotePCHost.exe"
+NordVPN,"NordVPN.exe, nordvpn-service.exe"
+ExpressVPN,"expressvpn.exe, expressvpnd.exe"
+Surfshark,"Surfshark.exe, Surfshark.Service.exe"
+CyberGhos,CyberGhost.exe
+PrivadoVPN,PrivadoVPN.exe
+Proton VPN,"ProtonVPN.exe, ProtonVPNService.exe"
+Norton VPN,
+Psiphon,psiphon.exe
+OpenVPN,"openvpn.exe, openvpnserv2.exe, openvpn-gui.exe"
+SoftEther VPN,"vpnclient_x64.exe, vpnclient.exe, vpnserver.exe"
+Tabby,tabby.exe
+Remotely,
+Nebula,
