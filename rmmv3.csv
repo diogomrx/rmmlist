@@ -32,7 +32,6 @@ GoToAssist (GoTo Resolve),gotoopener.exe
 Pocket Cloud (Wyse),
 GatherPlace-desktop sharing,
 GetScreen,getscreen.exe
-ManageEngine RMM Central,
 Basecamp,
 Netreo,
 Addigy,
@@ -120,7 +119,6 @@ RealVNC,"vncserver.exe, vncserverui.exe, vncviewer.exe"
 MeshCentral,meshagent.exe
 Remote Desktop Plus,RemoteDesktopPlus.exe
 CloudFlare Tunnel,cloudflared.exe
-ManageEngine,
 Free Ping Tool,PingTool.exe
 Remote Manipulator System,"rutserv.exe, rutview.exe"
 Syncthing,syncthing.exe
