@@ -273,7 +273,6 @@ GoToMyPC,g2ax_service.exe
 Chrome Remote Desktop,remoting_host.exe
 NoMachine,"nxplayer.exe, nxservice.exe"
 RemotePC,"RemotePCService.exe, RemotePCHost.exe"
-NordVPN,"NordVPN.exe, nordvpn-service.exe"
 ExpressVPN,"expressvpn.exe, expressvpnd.exe"
 Surfshark,"Surfshark.exe, Surfshark.Service.exe"
 CyberGhos,CyberGhost.exe
