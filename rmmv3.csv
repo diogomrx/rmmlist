@@ -5,7 +5,6 @@ SimpleHelp,
 Domotz,
 Chicken (of the VNC),
 Fortra,
-Manage Engine (Desktop Central),
 Supremo,Supremo.exe
 EMCO Remote Console,
 Weezo,Weezo.exe
@@ -120,7 +119,6 @@ ScreenConnect,"ScreenConnect.Service.exe, ScreenConnect.ClientService.exe, Scree
 RealVNC,"vncserver.exe, vncserverui.exe, vncviewer.exe"
 MeshCentral,meshagent.exe
 Remote Desktop Plus,RemoteDesktopPlus.exe
-VNC,"vncserver.exe, vncviewer.exe"
 CloudFlare Tunnel,cloudflared.exe
 ManageEngine,
 Free Ping Tool,PingTool.exe
