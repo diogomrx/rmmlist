@@ -246,3 +246,9 @@ OpenVPN,"openvpn.exe, openvpnserv2.exe, openvpn-gui.exe"
 SoftEther VPN,"vpnclient_x64.exe, vpnclient.exe, vpnserver.exe"
 Tabby,tabby.exe
 Remotely,
+HMA (HideMyAss),HMA VPN.exe
+Windscribe,Windscribe.exe, WindscribeService.exe, windscribe-cli.exe
+TunnelBear,TunnelBear.UI.exe, TunnelBear.Maintenance.exe
+IVPN,ivpn-ui.exe, IVPN Service.exe
+VyprVPN,VyprVPN.exe
+IPVanish,IPVanish.exe
